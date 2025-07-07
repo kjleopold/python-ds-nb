@@ -11,4 +11,4 @@ Each question is worth one point.
 
 Add a Python cell at the end of the notebook, enter the following Python command (change the file name as needed), and run the cell:
 
-`!jupyter nbconvert --to html python-ds.ipynb`
+`!jupyter nbconvert --to html (file_name).ipynb`
